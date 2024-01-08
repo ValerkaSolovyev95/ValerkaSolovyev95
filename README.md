@@ -5,7 +5,7 @@
 ### Contacts
 [![Telegram Badge](https://img.shields.io/badge/-@Valery910-blue?style=flat&logo=telegram&logoColor=white&link=https://instagram.com/jenny___ndbn/)](https://instagram.com/jenny___ndbn)
 [![Gmail Badge](https://img.shields.io/badge/-val241612-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:val241612@gmail.com)](mailto:val241612@gmail.com)
-
+[![Instagram Badge](https://img.shields.io/badge/-@valeriisolovev31-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/valeriisolovev31/)](https://instagram.com/valeriisolovev31)
 ### Portfolio
 ![Valery's github stats](https://github-readme-stats.vercel.app/api?username=ValerkaSolovyev95&show_icons=true&theme=dracula&hide=issues)
 
