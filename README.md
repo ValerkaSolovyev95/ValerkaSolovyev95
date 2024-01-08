@@ -14,9 +14,9 @@
 #### Top Repositories
 
 <a href="https://github.com/ValerkaSolovyev95/qa_guru_lesson17_HM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ValerkaSolovyev95&repo=web-test-tinkoff&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ValerkaSolovyev95&repo=qa_guru_lesson17_HM&theme=dracula" />
 </a> <a href="https://github.com/ValerkaSolovyev95/guru_qa_rest_assured">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ValerkaSolovyev95&repo=api-test-reqres.in&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ValerkaSolovyev95&repo=guru_qa_rest_assured&theme=dracula" />
 </a>
 
 ### Used technologies in projects
